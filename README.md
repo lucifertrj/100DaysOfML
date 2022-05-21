@@ -3,12 +3,13 @@
 [![github_fork](https://img.shields.io/github/forks/lucifertrj/100DaysOfML?style=social)](https://github.com/lucifertrj/100DaysOfML/fork)
 [![github_repo_size](https://img.shields.io/github/repo-size/lucifertrj/100DaysofML?style=plastic)](https://github.com/Eksauek)
 [![github_star](https://img.shields.io/github/stars/lucifertrj/100DaysofML?style=social)](https://github.com/lucifertrj/100DaysOfML/)
+<a target="_blank" href="https://animevyuh.org/category/eksauek"><img src="https://img.shields.io/badge/📖 Read ML Blog articles-9cf"></a>
 
 **EkSauEk**: *Lets Learn Together Consistently*
 
 **[EkSauEk](https://twitter.com/EkSauEk1)** and **[Anime Vyuh](https://animevyuh.org)** brings 100 Days Of Machine Learning Massive GitHub Repository consisting of:
 
-- [Daily Content/ Content in 2 Days](https://github.com/lucifertrj/100DaysOfML/)
+- [New Content in every 1 or 2 days](https://github.com/lucifertrj/100DaysOfML/)
 - [Weekly Hands-on ML+DL Projects](https://github.com/lucifertrj/100DaysOfML/tree/main/Machine%20Learning%20Projects)
 - [Research Papers](https://github.com/lucifertrj/100DaysOfML/tree/main/Resource:%20Research_Papers)
 - [Books](https://github.com/lucifertrj/100DaysOfML/tree/main/Resource:%20Books_Ebooks)
