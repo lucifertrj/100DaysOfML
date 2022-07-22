@@ -1,0 +1,5 @@
+streamlit
+pandas
+sklearn
+matplotlib
+wordcloud
