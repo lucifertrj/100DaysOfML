@@ -1,7 +1,17 @@
 version: 2
-package-ecosystem: "docker"
-    # Look for a `Dockerfile` in the `root` directory
+updates:
+  - package-ecosystem: "docker"
     directory: "/"
-    # Check for updates once a week
     schedule:
       interval: "weekly"
+      
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    allow:
+      - dependency-name: "tensorflow*"
+        dependency-type: "direct"
+      # Allow only production updates for Sphinx
+      - dependency-name: "sphinx"
+        dependency-type: "production"
