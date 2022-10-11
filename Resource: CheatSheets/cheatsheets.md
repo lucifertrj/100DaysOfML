@@ -3,7 +3,7 @@ Cheatsheets to make: [Under development]
 - Keras
 - Tensorflow
 - Numpy
-- Pandas
+- [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - Matplotlib
 - Python
 - Sklearn
