@@ -32,7 +32,8 @@ This dataset contains information on the signs and symptoms of newly diagnosed d
 - genital_thrush (Feature, Binary): Presence of genital thrush (Yes/No)
 - visual_blurring (Feature, Binary): Experience of visual blurring (Yes/No)
 - itching (Feature, Binary): Experience of itching (Yes/No)
-- Additional Variable Information:
+
+#### Additional Variable Information:
 
 - Age: Range from 20 to 65 years
 - Gender: 1 for Male, 2 for Female
